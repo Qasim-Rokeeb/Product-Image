@@ -92,6 +92,7 @@ Follow along for more UI mini-projects 👇
 
 **[30 Days of JavaScript Challenge](#)**
 Follow the journey: [@qasimrokeeb](https://x.com/qasimrokeeb)
+Visit my profile: [My Portfolio](https://qasimrokeeb.vercel.app/)
 Hashtags: `#30DaysOfJS` `#JavaScript` `#FrontendDev` `Build In Public`
 
 ---
